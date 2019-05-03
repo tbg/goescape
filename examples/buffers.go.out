@@ -1,0 +1,2 @@
+examples/buffers.go:9: unexpectedly escaped: h1
+examples/buffers.go:17: unexpectedly escaped: h2
